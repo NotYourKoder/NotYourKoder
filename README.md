@@ -21,18 +21,19 @@
 
 ### 👨‍💻 Languages
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
+<!--
 ### ⚙️ Backend
 
 ### 🌐 Frontend
 <!--![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black) -->
 
-### 🗄️ Database & Tools
 <!--
+### 🗄️ Database & Tools
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 -->
+
 ---
 
 ## 🚀 Featured Projects
