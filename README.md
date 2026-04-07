@@ -38,27 +38,24 @@
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects (Chronological)
-
 | 📅 Last Updated | 🚀 Project Name | 💻 Tech | 🔍 Description | 🔗 Link |
 |----------------|---------------|--------|---------------|--------|
-| Recent | Randomized DOM Quote Generator | JavaScript | Generates random quotes using DOM manipulation | [View Repo](https://github.com/NotYourKoder/Randomized-DOM-Quote-Generator) |
-| Recent | IPL 2026 Winner Predictor | JavaScript | Logic-based sports outcome prediction project | [View Repo](https://github.com/NotYourKoder/IPL-2026-Winner-Predictor) |
-| Recent | DOM Projects (domProject1, domclass1project) | JavaScript | Practice projects for DOM manipulation & events | [View Repo](https://github.com/NotYourKoder/domProject1) |
-| Oct 25, 2025 | Flutter Ecosystem Clone | SCSS | UI clone with modern component-based styling | [View Repo](https://github.com/NotYourKoder/flutter-ecosystem-clone) |
-| Oct 24, 2025 | ALVY | SCSS | Clean and responsive UI design project | [View Repo](https://github.com/NotYourKoder/ALVY) |
-| Oct 21, 2025 | Responsive Image Gallery | SCSS | Fully responsive gallery using grid & flexbox | [View Repo](https://github.com/NotYourKoder/Responsive-Image-Gallery) |
-| Oct 19, 2025 | Harry Potter UI | SCSS | Themed UI design project | [View Repo](https://github.com/NotYourKoder/HarryPotter) |
-| Oct 13, 2025 | Peacemaker | HTML | Basic layout and UI practice | [View Repo](https://github.com/NotYourKoder/Peacemaker) |
-| Oct 11, 2025 | Navis | HTML | Navigation UI design project | [View Repo](https://github.com/NotYourKoder/Navis) |
-| Oct 9, 2025 | Sun | HTML | Simple UI layout experiment | [View Repo](https://github.com/NotYourKoder/sun) |
-| Oct 7, 2025 | Dribbble Clone | HTML/CSS | UI inspired by Dribbble | [View Repo](https://github.com/NotYourKoder/dribbble) |
-| Oct 6, 2025 | Marvel Zombies | HTML/CSS | Creative themed UI project | [View Repo](https://github.com/NotYourKoder/MarvelZombies) |
-| Oct 4, 2025 | Apple UI | HTML/CSS | Apple-style webpage clone | [View Repo](https://github.com/NotYourKoder/apple) |
-| Oct 2, 2025 | Lego Spider-Man | CSS | Creative frontend styling project | [View Repo](https://github.com/NotYourKoder/LegoSpiderMan) |
-| Oct 2, 2025 | Sweaters | CSS | Styling and layout practice | [View Repo](https://github.com/NotYourKoder/Sweaters) |
-| Sep 30, 2025 | ImBatman1 | CSS | Dark-themed UI project | [View Repo](https://github.com/NotYourKoder/ImBatman1) |
-| Sep 28, 2025 | Personal Resume Website | HTML | Portfolio-style resume website | [View Repo](https://github.com/NotYourKoder/MyResumeWebsite) |
+| Recent | Randomized DOM Quote Generator | JavaScript | Generates random quotes using DOM manipulation | [Click Here](https://notyourkoder.github.io/Randomized-DOM-Quote-Generator/) |
+| Recent | IPL 2026 Winner Predictor | JavaScript | Logic-based sports outcome prediction project | [Click Here](https://notyourkoder.github.io/IPL-2026-Winner-Predictor/) |
+| Oct 25, 2025 | Flutter Ecosystem Clone | SCSS | UI clone with modern component-based styling | [Click Here](https://notyourkoder.github.io/flutter-ecosystem-clone/) |
+| Oct 24, 2025 | ALVY | SCSS | Clean and responsive UI design project | [Click Here](https://notyourkoder.github.io/ALVY/) |
+| Oct 21, 2025 | Responsive Image Gallery | SCSS | Fully responsive gallery using grid & flexbox | [Click Here](https://notyourkoder.github.io/Responsive-Image-Gallery/) |
+| Oct 19, 2025 | Harry Potter UI | SCSS | Themed UI design project | [Click Here](https://notyourkoder.github.io/HarryPotter/) |
+| Oct 13, 2025 | Peacemaker | HTML | Basic layout and UI practice | [Click Here](https://notyourkoder.github.io/Peacemaker/) |
+| Oct 11, 2025 | Navis | HTML | Navigation UI design project | [Click Here](https://notyourkoder.github.io/Navis/) |
+| Oct 9, 2025 | Sun | HTML | Simple UI layout experiment | [Click Here](https://notyourkoder.github.io/sun/) |
+| Oct 7, 2025 | Dribbble Clone | HTML/CSS | UI inspired by Dribbble | [Click Here](https://notyourkoder.github.io/dribbble/) |
+| Oct 6, 2025 | Marvel Zombies | HTML/CSS | Creative themed UI project | [Click Here](https://notyourkoder.github.io/MarvelZombies/) |
+| Oct 4, 2025 | Apple UI | HTML/CSS | Apple-style webpage clone | [Click Here](https://notyourkoder.github.io/apple/) |
+| Oct 2, 2025 | Lego Spider-Man | CSS | Creative frontend styling project | [Click Here](https://notyourkoder.github.io/LegoSpiderMan/) |
+| Oct 2, 2025 | Sweaters | CSS | Styling and layout practice | [Click Here](https://notyourkoder.github.io/Sweaters/) |
+| Sep 30, 2025 | ImBatman1 | CSS | Dark-themed UI project | [Click Here](https://notyourkoder.github.io/ImBatman1/) |
+| Sep 28, 2025 | Personal Resume Website | HTML | Portfolio-style resume website | [Click Here](https://notyourkoder.github.io/MyResumeWebsite/) |
 
 ---
 
