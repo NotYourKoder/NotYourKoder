@@ -1,8 +1,10 @@
 <h1 align="center">Hey 👋, I'm NotYourKoder</h1>
 <h3 align="center">💻Front-End Developer | 🚀Growth | 🎥Tech Creator</h3>
+
 <p align="center">
   <!-- I build real-world applications, share tech content, and explore modern development stacks. -->
 </p>
+
 <!--## 🌟 About Me
 🎓 
 💻  
@@ -11,6 +13,7 @@
 🧠 
 📈 
 -->
+
 ## 🚀 Tech Stack
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
