@@ -1,10 +1,4 @@
-<p align="center" style="font-size: 80px; font-weight: bold;">
-  Hey 👋, I'm NotYourKoder
-</p>
-
-<p align="center" style="font-size: 40px;">
-  💻Front-End Developer | 🚀Growth | 🎥Tech Creator
-</p>
+<h1 align="center">Hey 👋, I'm NotYourKoder</h1> <h3 align="center">💻Front-End Developer | 🚀Growth | 🎥Tech Creator</h3>
 
 
 ## 🚀 Tech Stack
