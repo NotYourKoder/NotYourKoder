@@ -1,8 +1,8 @@
-<p align="center" style="font-size: 32px; font-weight: bold;">
+<p align="center" style="font-size: 80px; font-weight: bold;">
   Hey 👋, I'm NotYourKoder
 </p>
 
-<p align="center" style="font-size: 20px;">
+<p align="center" style="font-size: 40px;">
   💻Front-End Developer | 🚀Growth | 🎥Tech Creator
 </p>
 
