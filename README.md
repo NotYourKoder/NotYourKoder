@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm NotYourKoder</h1>
-<h3 align="center">💻 Front-End Developer  | 🚀  | 🎥 Tech Creator</h3>
+<h3 align="center">💻Front-End Developer|🚀Growth|🎥Tech Creator</h3>
 
 <p align="center">
   <!-- I build real-world applications, share tech content, and explore modern development stacks. -->
