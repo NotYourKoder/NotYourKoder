@@ -1,4 +1,5 @@
-<h1 align="center">Hey 👋, I'm NotYourKoder</h1> <h3 align="center">💻Front-End Developer | 🚀Growth | 🎥Tech Creator</h3>
+<h1 align="center">Hey 👋, I'm NotYourKoder</h1>
+<h3 align="center">💻Front-End Developer | 🚀Growth | 🎥Tech Creator</h3>
 
 
 ## 🚀 Tech Stack
