@@ -46,62 +46,27 @@
 
 ---
 
-### 💻 DOM Projects (Practice → Mastery)
-👉 Hands-on JavaScript + DOM manipulation  
+## 🚀 Featured Projects (Chronological)
 
-🔹 **domProject1** – Interactive UI experiments  
-🔹 **domclass1project** – Core DOM concepts implementation  
-
-✔️ Strengthens frontend fundamentals  
-✔️ Real interaction handling  
-
----
-
-### 🎨 UI Clones & Frontend Builds
-
-🔹 **Flutter Ecosystem Clone** (SCSS)  
-🔹 **Dribbble Clone** (HTML/CSS)  
-🔹 **Apple Website Clone**  
-🔹 **Marvel Zombies UI**  
-🔹 **Peacemaker UI**  
-
-✔️ Pixel-perfect UI practice  
-✔️ Strong CSS & layout skills  
-✔️ Responsive design focus  
-
----
-
-### 🖼️ Creative & Visual Projects
-
-🔹 **Responsive Image Gallery**  
-🔹 **Harry Potter UI Theme**  
-🔹 **Lego Spider-Man Design**  
-🔹 **Sweaters UI Design**  
-🔹 **ImBatman UI**  
-
-✔️ Creativity + frontend blending  
-✔️ Animation & styling practice  
-
----
-
-### 🌐 Personal & Utility Projects
-
-🔹 **My Resume Website**  
-🔹 **Navis / Sun / Misc UI builds**  
-
-✔️ Personal branding  
-✔️ Clean UI implementations  
-
-🔹 *(More projects coming soon...)*  
-
----
-
-## 🔥 What Makes Me Different
-
-✔️ I don’t just learn — I **build consistently**  
-✔️ Strong focus on **frontend fundamentals (DOM, CSS, UI)**  
-✔️ Growing towards **full-stack & scalable systems**  
-✔️ Sharing my journey through **content creation**  
+| 📅 Last Updated | 🚀 Project Name | 💻 Tech | 🔍 Description |
+|----------------|---------------|--------|---------------|
+| Recent | Randomized DOM Quote Generator | JavaScript | Generates random quotes using DOM manipulation |
+| Recent | IPL 2026 Winner Predictor | JavaScript | Logic-based sports outcome prediction project |
+| Recent | DOM Projects (domProject1, domclass1project) | JavaScript | Practice projects for DOM manipulation & events |
+| Oct 25, 2025 | Flutter Ecosystem Clone | SCSS | UI clone with modern component-based styling |
+| Oct 24, 2025 | ALVY | SCSS | Clean and responsive UI design project |
+| Oct 21, 2025 | Responsive Image Gallery | SCSS | Fully responsive gallery using grid & flexbox |
+| Oct 19, 2025 | Harry Potter UI | SCSS | Themed UI design project |
+| Oct 13, 2025 | Peacemaker | HTML | Basic layout and UI practice |
+| Oct 11, 2025 | Navis | HTML | Navigation UI design project |
+| Oct 9, 2025 | Sun | HTML | Simple UI layout experiment |
+| Oct 7, 2025 | Dribbble Clone | HTML/CSS | UI inspired by Dribbble |
+| Oct 6, 2025 | Marvel Zombies | HTML/CSS | Creative themed UI project |
+| Oct 4, 2025 | Apple UI | HTML/CSS | Apple-style webpage clone |
+| Oct 2, 2025 | Lego Spider-Man | CSS | Creative frontend styling project |
+| Oct 2, 2025 | Sweaters | CSS | Styling and layout practice |
+| Sep 30, 2025 | ImBatman1 | CSS | Dark-themed UI project |
+| Sep 28, 2025 | Personal Resume Website | HTML | Portfolio-style resume website |
 
 ---
 
