@@ -55,22 +55,16 @@
 
 ---
 
-## 🎥 YouTube
-![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
-👉 https://www.youtube.com/@NotYourKoder  
-
----
-
 ## 🤝 Let's Connect
 <p align="center">
+  <a href="https://www.youtube.com/@NotYourKoder">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
+  </a>
   <a href="https://www.linkedin.com/in/notyourkoder">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
   </a>
   <a href="mailto:notyourkoder@gmail.com">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://www.youtube.com/@NotYourKoder">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube" />
   </a>
 </p>
 
