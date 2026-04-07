@@ -38,35 +38,27 @@
 
 ## 🚀 Featured Projects
 
-### 🔥 IPL 2026 Winner Predictor
-👉 JavaScript-based prediction project  
-✔️ Logic-based outcome prediction  
-✔️ Real-world sports use case  
-✔️ Focus on problem-solving  
-
----
-
 ## 🚀 Featured Projects (Chronological)
 
-| 📅 Last Updated | 🚀 Project Name | 💻 Tech | 🔍 Description |
-|----------------|---------------|--------|---------------|
-| Recent | Randomized DOM Quote Generator | JavaScript | Generates random quotes using DOM manipulation |
-| Recent | IPL 2026 Winner Predictor | JavaScript | Logic-based sports outcome prediction project |
-| Recent | DOM Projects (domProject1, domclass1project) | JavaScript | Practice projects for DOM manipulation & events |
-| Oct 25, 2025 | Flutter Ecosystem Clone | SCSS | UI clone with modern component-based styling |
-| Oct 24, 2025 | ALVY | SCSS | Clean and responsive UI design project |
-| Oct 21, 2025 | Responsive Image Gallery | SCSS | Fully responsive gallery using grid & flexbox |
-| Oct 19, 2025 | Harry Potter UI | SCSS | Themed UI design project |
-| Oct 13, 2025 | Peacemaker | HTML | Basic layout and UI practice |
-| Oct 11, 2025 | Navis | HTML | Navigation UI design project |
-| Oct 9, 2025 | Sun | HTML | Simple UI layout experiment |
-| Oct 7, 2025 | Dribbble Clone | HTML/CSS | UI inspired by Dribbble |
-| Oct 6, 2025 | Marvel Zombies | HTML/CSS | Creative themed UI project |
-| Oct 4, 2025 | Apple UI | HTML/CSS | Apple-style webpage clone |
-| Oct 2, 2025 | Lego Spider-Man | CSS | Creative frontend styling project |
-| Oct 2, 2025 | Sweaters | CSS | Styling and layout practice |
-| Sep 30, 2025 | ImBatman1 | CSS | Dark-themed UI project |
-| Sep 28, 2025 | Personal Resume Website | HTML | Portfolio-style resume website |
+| 📅 Last Updated | 🚀 Project Name | 💻 Tech | 🔍 Description | 🔗 Link |
+|----------------|---------------|--------|---------------|--------|
+| Recent | Randomized DOM Quote Generator | JavaScript | Generates random quotes using DOM manipulation | [View Repo](https://github.com/NotYourKoder/Randomized-DOM-Quote-Generator) |
+| Recent | IPL 2026 Winner Predictor | JavaScript | Logic-based sports outcome prediction project | [View Repo](https://github.com/NotYourKoder/IPL-2026-Winner-Predictor) |
+| Recent | DOM Projects (domProject1, domclass1project) | JavaScript | Practice projects for DOM manipulation & events | [View Repo](https://github.com/NotYourKoder/domProject1) |
+| Oct 25, 2025 | Flutter Ecosystem Clone | SCSS | UI clone with modern component-based styling | [View Repo](https://github.com/NotYourKoder/flutter-ecosystem-clone) |
+| Oct 24, 2025 | ALVY | SCSS | Clean and responsive UI design project | [View Repo](https://github.com/NotYourKoder/ALVY) |
+| Oct 21, 2025 | Responsive Image Gallery | SCSS | Fully responsive gallery using grid & flexbox | [View Repo](https://github.com/NotYourKoder/Responsive-Image-Gallery) |
+| Oct 19, 2025 | Harry Potter UI | SCSS | Themed UI design project | [View Repo](https://github.com/NotYourKoder/HarryPotter) |
+| Oct 13, 2025 | Peacemaker | HTML | Basic layout and UI practice | [View Repo](https://github.com/NotYourKoder/Peacemaker) |
+| Oct 11, 2025 | Navis | HTML | Navigation UI design project | [View Repo](https://github.com/NotYourKoder/Navis) |
+| Oct 9, 2025 | Sun | HTML | Simple UI layout experiment | [View Repo](https://github.com/NotYourKoder/sun) |
+| Oct 7, 2025 | Dribbble Clone | HTML/CSS | UI inspired by Dribbble | [View Repo](https://github.com/NotYourKoder/dribbble) |
+| Oct 6, 2025 | Marvel Zombies | HTML/CSS | Creative themed UI project | [View Repo](https://github.com/NotYourKoder/MarvelZombies) |
+| Oct 4, 2025 | Apple UI | HTML/CSS | Apple-style webpage clone | [View Repo](https://github.com/NotYourKoder/apple) |
+| Oct 2, 2025 | Lego Spider-Man | CSS | Creative frontend styling project | [View Repo](https://github.com/NotYourKoder/LegoSpiderMan) |
+| Oct 2, 2025 | Sweaters | CSS | Styling and layout practice | [View Repo](https://github.com/NotYourKoder/Sweaters) |
+| Sep 30, 2025 | ImBatman1 | CSS | Dark-themed UI project | [View Repo](https://github.com/NotYourKoder/ImBatman1) |
+| Sep 28, 2025 | Personal Resume Website | HTML | Portfolio-style resume website | [View Repo](https://github.com/NotYourKoder/MyResumeWebsite) |
 
 ---
 
