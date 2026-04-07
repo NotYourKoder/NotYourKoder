@@ -68,8 +68,3 @@
   </a>
 </p>
 
----
-
-<p align="center">
-  ⚡ Building. Learning. Sharing. — NotYourKoder
-</p>
